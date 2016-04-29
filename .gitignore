@@ -1,0 +1,11 @@
+
+*.class
+.DS_store
+
+# Package files #
+*.jar
+*.war
+*.ear
+
+# ignore targets owned individually. #
+/target/
